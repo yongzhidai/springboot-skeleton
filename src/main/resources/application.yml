@@ -1,0 +1,8 @@
+server:
+  port: 8080
+
+jwt:
+  signingkey: xxxxx
+
+kaptcha:
+  length: 4
